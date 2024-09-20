@@ -98,7 +98,7 @@ if __name__ == "__main__":
     stop_point_id = "910GACTONML"  # StopPoint ID for Acton Main Line
     app_id = None      # Replace with your actual app_id
     app_key = None      # Replace with your actual app_key
-    filename = "elizabeth_line_info.json"  # Name of the file to save the data to
+    filename = "test_files/elizabeth_line_info.json"  # Name of the file to save the data to
     save = False
 
     # Get the Elizabeth Line info in JSON format

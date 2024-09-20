@@ -1,0 +1,1 @@
+python D:\Users\Dhruv\Documents\Programming\Repos\ElizabethLineTool\Lizzy_quick_status.py %*
